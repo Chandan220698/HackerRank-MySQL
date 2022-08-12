@@ -16,5 +16,5 @@
 > Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.
  `SELECT * FROM City WHERE countrycode = 'JPN';`
 ### 6. [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
-> Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE for Japan is JPN.
+> Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE for Japan is JPN.<br>
  `SELECT name FROM City WHERE countrycode = 'JPN';`
