@@ -12,9 +12,9 @@
 ### 4. [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true)
 > Query all columns for a city in CITY with the ID 1661.
 > `SELECT * FROM City WHERE id = 1661;`
-### 5. (Japanese Cities' Attributes)[https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true]
+### 5. [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)
 > Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.
 > `SELECT * FROM City WHERE countrycode = 'JPN';`
-### 6. (Japanese Cities' Names)[https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true]
+### 6. [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true)
 > Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE for Japan is JPN.
 > `SELECT name FROM City WHERE countrycode = 'JPN';`
